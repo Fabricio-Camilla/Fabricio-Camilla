@@ -3,6 +3,7 @@
 - 🏫 Soy estudiante de **Licenciatura en Informática** en la [Universidad Nacional de Quilmes](https://www.unq.edu.ar/)
 - 🤓 Me gusta afrontar desafíos
 - 📚 Siempre aprendiendo cosas nuevas
+- 🎯 Estoy en busca de mi primer oportunidad laboral como desarrollador.
 
 ---
 
