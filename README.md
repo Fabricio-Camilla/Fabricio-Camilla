@@ -1,7 +1,6 @@
 ## 🚀 Sobre mí
 
-- 🏫 Soy estudiante de **Licenciatura en Informática** en la  
-  [Universidad Nacional de Quilmes](https://www.unq.edu.ar/)
+- 🏫 Soy estudiante de **Licenciatura en Informática** en la [Universidad Nacional de Quilmes](https://www.unq.edu.ar/)
 - 🤓 Me gusta afrontar desafíos
 - 📚 Siempre aprendiendo cosas nuevas
 
@@ -28,6 +27,9 @@
 
 ### <sub>Otros</sub>
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![Gradle](https://img.shields.io/b)
 
 ---
 
